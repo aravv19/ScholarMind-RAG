@@ -28,5 +28,5 @@ ScholarMind is a Retrieval-Augmented Generation (RAG) application built with **S
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/aravv19/scholarmind.git](https://github.com/your-username/scholarmind.git)
+git clone [https://github.com/aravv19/scholarmind.git](https://github.com/aravv19/scholarmind.git)
 cd scholarmind
