@@ -2,3 +2,5 @@
 temp_paper.pdf
 temp.pdf
 __pycache__/
+Untitled.ipynb
+.streamlit/secrets.toml
